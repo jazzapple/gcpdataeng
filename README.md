@@ -1,6 +1,6 @@
 # gcpdataeng
 
-Google Cloud Platform Data Engineering Course
+Notes from Google Cloud Platform Data Engineering Course
 1st-4th July 2020
 
 # Summary
@@ -68,7 +68,7 @@ https://cloud.google.com/bigquery/docs/visualize-jupyter
 * Cloud Bigtable: Fully managed, scalable NoSQL database with low latency. Efficient for certain types of use cases; choice of single index has direct performance implications
 
 
-# Day 4
+# Day 4: AI & ML
 * ML experiments with source code on GCP: https://experiments.withgoogle.com/
 * GCP Python client library: https://github.com/googleapis/google-cloud-python#google-cloud-python-client
 * Use ML on GCP using either
